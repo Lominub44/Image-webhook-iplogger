@@ -18,7 +18,7 @@ Step 8: klick "ok" and "ok" again
 
 Step 9: now change the ".exe" sufix to ".scr" and hit enter
 
-Step 10: i named it "pic.scr" now type, before the dot (.) "gnp" now go betwen "pic" and "gnp", now right click and choose "unicode control symbols" or something like that, now chose "RLO" and hit enter. it wil reverse all characters after the "RLO" now it looks like a png.
+Step 10: i named it "pic.scr" now type, before the "." "gnp" now go betwen "pic" and "gnp", now right click and choose "unicode control symbols" or something like that, now chose "RLO" and hit enter. it wil reverse all characters after the "RLO" now it looks like a png.
 
 you did it!!
 
